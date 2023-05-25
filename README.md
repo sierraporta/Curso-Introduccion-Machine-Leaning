@@ -1,6 +1,6 @@
-# Curso-Introduccion-Machine-Leaning
+# Curso: Introduccion a Machine Leaning
 
-# Introducción a Machine Learning con Python
+## Introducción a Machine Learning con Python
 
 ¡Bienvenidos al emocionante mundo del aprendizaje automático! En este curso de Machine Learning diseñado específicamente para estudiantes de maestría, nos adentraremos en los fundamentos, las técnicas y las aplicaciones de una de las disciplinas más revolucionarias de la era digital.
 
@@ -14,11 +14,11 @@ A lo largo de este curso, no solo aprenderemos los aspectos teóricos del aprend
 
 Prepárense para sumergirse en un mundo fascinante donde las máquinas pueden aprender, adaptarse y tomar decisiones inteligentes. Este curso de Machine Learning para estudiantes de maestría es el primer paso hacia la comprensión y dominio de una tecnología que está revolucionando el presente y el futuro. ¡Estoy emocionado de embarcarnos juntos en este viaje de descubrimiento y aprendizaje!
 
-# Ciencia de datos: Un recurso por descubrir para el aprendizaje automático
+## Ciencia de datos: Un recurso por descubrir para el aprendizaje automático
 
 La ciencia de datos es uno de los campos más apasionantes de la actualidad.
 
-## ¿Por qué es tan importante?
+### ¿Por qué es tan importante?
 Porque las empresas disponen de un tesoro de datos. A medida que la tecnología moderna ha permitido la creación y el almacenamiento de cantidades cada vez mayores de información, los volúmenes de datos han aumentado. Se calcula que el 90% de los datos del mundo se han creado en los dos últimos años. Por ejemplo, los usuarios de Facebook suben 10 millones de fotos por hora.
 
 Pero a menudo estos datos se almacenan en bases de datos y lagos de datos, la mayoría sin tocar. La ingente cantidad de datos recopilados y almacenados por estas tecnologías puede generar beneficios transformadores para organizaciones y sociedades de todo el mundo, pero solo si sabemos interpretarlos. Ahí es donde entra en juego la ciencia de datos.
@@ -27,7 +27,7 @@ La ciencia de datos revela tendencias y genera información que las empresas pue
 
 Los datos son la base de la innovación, pero su valor procede de la información que los científicos de datos pueden extraer de ellos y luego utilizar.
 
-# Alcance y contenidos:
+## Alcance y contenidos:
 
 Este pequeño curso introductorio se imparte en tres módulos y proporciona materiales y recursos que abordan temas para varios días:
 
