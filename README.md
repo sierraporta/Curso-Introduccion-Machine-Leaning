@@ -35,7 +35,7 @@ Este pequeño curso introductorio se imparte en tres módulos y proporciona mate
 |---|---|---|
 | 01 | Introducción | [introduccion.ipynb](Notebooks/introduccion.ipynb) |
 | 02 | Aprendizaje Supervisado | [aprendizaje-supervisado.ipynb](Notebooks/aprendizaje-supervisado.ipynb) |
-| 03 | Aprendizaje No Supervisado | aprendizaje-NOsupervisado.ipynb |
+| 03 | Aprendizaje No Supervisado | [aprendizaje-NOsupervisado.ipynb](Notebooks/aprendizaje-NOsupervisado.ipynb) |
 | 04 | Representación de datos y características | representación-datos-características-ingeniería.ipynb |
 | 05 | Evaluación y mejora de modelos | [Hyper-parametertuning.ipynb](Notebooks/Hyper-parametertuning.ipynb) |
 | 06 | Algorithm chains and pipelines | algorithm-chains-and-pipelines.ipynb |
